@@ -12,4 +12,4 @@
 
 В файле **js/scripts.js** `ym(89230054,'reachGoal','target_review')`, случается только если валидная форма.
 
-Демо: http://webbooster.lila.su/
+Демо: https://webbooster.lila.su/
