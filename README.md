@@ -12,4 +12,6 @@
 
 В файле **js/scripts.js** `ym(89230054,'reachGoal','target_review')`, случается только если валидная форма.
 
+Верстка при помощи Tailwind CSS
+
 Демо: https://webbooster.lila.su/
